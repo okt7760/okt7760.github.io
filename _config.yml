@@ -64,3 +64,5 @@ links:
   - title: xxx的个人博客
     url: ''
 
+
+theme: jekyll-theme-cayman
